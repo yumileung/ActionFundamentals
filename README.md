@@ -1,4 +1,5 @@
 # GitHub Actions Fundamentals
+Edited
 
 Repo for the `GitHub Actions Fundamentals` training.
 
